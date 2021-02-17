@@ -1,7 +1,5 @@
 # Hi! I'm a Front-End Developer!
 
-## I'm born in Monterrey, NL, MX.
-
 
 - 🔭 I’m currently working on Grupo Joya
 
