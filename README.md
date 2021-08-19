@@ -14,12 +14,10 @@
 🌱 I’m currently learning
 
   * Phyton
-  * React Native
   * Gatsby
+  * Ciencia de datos
 
   Social Media: 
   
-  [Twitter](https://twitter.com/jgomez1432);
-  
-  [LinkedIn](https://www.linkedin.com/in/abraham-gomez1432/);
+[![LinkedIN](https://img.shields.io/badge/Linkedin-abraham--gomez1432-blue)](https://www.linkedin.com/in/abraham-gomez1432)
   
