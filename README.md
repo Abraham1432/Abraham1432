@@ -1,7 +1,7 @@
 # Hi! I'm a Front-End Developer!
 
 
-- 🔭 I’m currently working on Grupo Joya
+- 🔭 I’m currently working in SPS Solutions
 
 - ⚡ Javacript lover!!!
     * Angular
