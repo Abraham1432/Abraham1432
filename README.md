@@ -1,7 +1,7 @@
 # Hi! I'm a Front-End Developer!
 
 
-- 🔭 I’m currently working in SPS Solutions
+- 🔭 I’m currently working in Vinco 📚
 
 - ⚡ Javacript lover!!!
     * Angular
