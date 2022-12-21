@@ -4,18 +4,6 @@
 - 🔭 I’m currently working in Vinco 📚
 
 - ⚡ Javacript lover!!!
-    * Angular
-    * React.js
-    * Strapi.js
-    * node.js
-    * next.js
-    * Ionic
-
-🌱 I’m currently learning
-
-  * Phyton
-  * Gatsby
-  * Ciencia de datos
 
   Social Media: 
   
