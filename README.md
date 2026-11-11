@@ -171,9 +171,7 @@ If you're running a meetup or a conference on local-first AI, privacy in regulat
 
 When I'm not shipping Zyrabit, I'm usually hunting for good coffee or travelling like a local.
 
-<!-- Snake appears after the generate animation workflow runs once on master.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abraham1432/Abraham1432/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake animation" />
   <img src="https://raw.githubusercontent.com/Abraham1432/Abraham1432/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake animation" />
 </p>
--->
