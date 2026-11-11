@@ -3,8 +3,6 @@
     <img src="https://assets.zyrabit.com/logo_zyrabit.png" alt="Zyrabit" width="120" />
   </a>
   <br />
-  <img src="https://www.zyrabit.com/team/abraham-gomez.jpg" alt="Abraham Gómez" width="160" height="160" />
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;width=740&amp;lines=Founder+%26+CEO+of+Zyrabit;Sovereign+AI+for+regulated+teams;Your+data+never+leaves.+Prove+me+wrong." alt="Founder and CEO of Zyrabit. Sovereign AI for regulated teams. Your data never leaves. Prove me wrong." />
 </div>
 
