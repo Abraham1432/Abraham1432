@@ -3,17 +3,17 @@
     <img src="https://assets.zyrabit.com/logo_zyrabit.png" alt="Zyrabit" width="120" />
   </a>
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;width=740&amp;lines=Founder+%26+CEO+of+Zyrabit;Sovereign+AI+for+regulated+teams;Your+data+never+leaves.+Prove+me+wrong." alt="Founder and CEO of Zyrabit. Sovereign AI for regulated teams. Your data never leaves. Prove me wrong." />
+  <img src="https://readme-typing-svg.demolab.com?font=Funnel+Display&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=6090B4&amp;center=true&amp;vCenter=true&amp;width=740&amp;lines=Founder+of+Zyrabit;Sovereign+AI+for+regulated+teams;Your+data+never+leaves.+Prove+me+wrong." alt="Founder of Zyrabit. Sovereign AI for regulated teams. Your data never leaves. Prove me wrong." />
 </div>
 
 <h2 align="center">Your data never leaves. Prove me wrong.</h2>
 <p align="center"><em>Tus datos no salen de tu perímetro. Demuéstrame lo contrario.</em></p>
 
 <p align="center">
-  <a href="https://hub.docker.com/r/zyrabitcore/zyrabit-slm"><img src="https://img.shields.io/docker/pulls/zyrabitcore/zyrabit-slm?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;color=0F766E" alt="Docker pulls for zyrabitcore/zyrabit-slm" /></a>
-  <a href="https://github.com/Zyrabit-tech/zyrabit-SLM"><img src="https://img.shields.io/github/stars/Zyrabit-tech/zyrabit-SLM?style=for-the-badge&amp;logo=github&amp;color=0F766E" alt="GitHub stars for Zyrabit SLM" /></a>
-  <a href="https://hub.docker.com/r/zyrabitcore/zyrabit-slm"><img src="https://img.shields.io/docker/v/zyrabitcore/zyrabit-slm?sort=semver&amp;style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;color=2496ED" alt="Latest Docker image version" /></a>
-  <a href="https://github.com/Zyrabit-tech/zyrabit-SLM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-2DD4BF?style=for-the-badge" alt="License: MIT" /></a>
+  <a href="https://hub.docker.com/r/zyrabitcore/zyrabit-slm"><img src="https://img.shields.io/docker/pulls/zyrabitcore/zyrabit-slm?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;color=3F5A6D" alt="Docker pulls for zyrabitcore/zyrabit-slm" /></a>
+  <a href="https://github.com/Zyrabit-tech/zyrabit-SLM"><img src="https://img.shields.io/github/stars/Zyrabit-tech/zyrabit-SLM?style=for-the-badge&amp;logo=github&amp;color=3F5A6D" alt="GitHub stars for Zyrabit SLM" /></a>
+  <a href="https://hub.docker.com/r/zyrabitcore/zyrabit-slm"><img src="https://img.shields.io/docker/v/zyrabitcore/zyrabit-slm?sort=semver&amp;style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;color=6090B4" alt="Latest Docker image version" /></a>
+  <a href="https://github.com/Zyrabit-tech/zyrabit-SLM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-6090B4?style=for-the-badge" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/NVIDIA-Inception-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA Inception member" />
   <a href="https://www.youtube.com/@Zyrabit-SLM"><img src="https://img.shields.io/badge/YouTube-Zyrabit--SLM-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Zyrabit SLM on YouTube" /></a>
 </p>
