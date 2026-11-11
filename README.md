@@ -10,9 +10,6 @@
 <p align="center"><em>Tus datos no salen de tu perímetro. Demuéstrame lo contrario.</em></p>
 
 <p align="center">
-  <a href="https://hub.docker.com/r/zyrabitcore/zyrabit-slm"><img src="https://img.shields.io/docker/pulls/zyrabitcore/zyrabit-slm?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;color=3F5A6D" alt="Docker pulls for zyrabitcore/zyrabit-slm" /></a>
-  <a href="https://github.com/Zyrabit-tech/zyrabit-SLM"><img src="https://img.shields.io/github/stars/Zyrabit-tech/zyrabit-SLM?style=for-the-badge&amp;logo=github&amp;color=3F5A6D" alt="GitHub stars for Zyrabit SLM" /></a>
-  <a href="https://hub.docker.com/r/zyrabitcore/zyrabit-slm"><img src="https://img.shields.io/docker/v/zyrabitcore/zyrabit-slm?sort=semver&amp;style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;color=6090B4" alt="Latest Docker image version" /></a>
   <a href="https://github.com/Zyrabit-tech/zyrabit-SLM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-6090B4?style=for-the-badge" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/NVIDIA-Inception-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA Inception member" />
   <a href="https://www.youtube.com/@Zyrabit-SLM"><img src="https://img.shields.io/badge/YouTube-Zyrabit--SLM-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Zyrabit SLM on YouTube" /></a>
@@ -137,50 +134,10 @@ cd zyrabit-SLM
 
 ---
 
-## One node, five pieces
-
-```mermaid
-flowchart LR
-    G["Gravity<br/>desktop interface"]
-    C["Cortex<br/>the brain"]
-    F["Forge<br/>specialist models"]
-    T["Tensor<br/>agent memory"]
-    S["SLM<br/>open-source trial"]
-    G --- C
-    C --- F
-    C --- T
-    C --- S
-```
-
-| Piece | Role |
-| :--- | :--- |
-| **Gravity** | Desktop interface — the Mac app at [gravity.zyrabit.com](https://gravity.zyrabit.com) |
-| **Cortex** | The brain, where agents and models run |
-| **Forge** | The workshop to create specialist models |
-| **Tensor** | Agent memory |
-| **SLM** | The open-source trial, MIT — [GitHub](https://github.com/Zyrabit-tech/zyrabit-SLM) · [Docker Hub](https://hub.docker.com/r/zyrabitcore/zyrabit-slm) |
-
-This is infrastructure you run. It is not a compliance certificate on its own.
-
----
-
 ## Watch it run
 
 <p align="center">
-  <img src="https://assets.zyrabit.com/public/images/zyrabit-web.png" alt="Zyrabit SLM local web UI" width="45%" />
-  <img src="https://assets.zyrabit.com/public/images/zyrabit-setup.png" alt="Zyrabit SLM setup" width="45%" />
-</p>
-<p align="center">
-  <img src="https://assets.zyrabit.com/public/images/zyrabit-grafana.png" alt="Zyrabit SLM Grafana telemetry" width="70%" />
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=0BrvlX_UjRg"><img src="https://img.youtube.com/vi/0BrvlX_UjRg/hqdefault.jpg" width="45%" alt="Zyrabit SLM: Local RAG on Your Own Infrastructure (Open Source)" /></a>
-  <a href="https://www.youtube.com/watch?v=RFLKHZjs53M"><img src="https://img.youtube.com/vi/RFLKHZjs53M/hqdefault.jpg" width="45%" alt="Private AI That Stays Inside Your Company | Zyrabit SLM" /></a>
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=GiuSI4ig_vQ"><img src="https://img.youtube.com/vi/GiuSI4ig_vQ/hqdefault.jpg" width="45%" alt="A Doctor, Patient Files, and AI That Never Leaves the Hospital | Zyrabit" /></a>
-  <a href="https://www.youtube.com/watch?v=5cPLCgmWJ5w"><img src="https://img.youtube.com/vi/5cPLCgmWJ5w/hqdefault.jpg" width="45%" alt="Zyrabit Gravity: your AI remembers your conversations, no internet needed" /></a>
+  <a href="https://www.youtube.com/watch?v=0BrvlX_UjRg"><img src="https://img.youtube.com/vi/0BrvlX_UjRg/hqdefault.jpg" width="560" alt="Zyrabit SLM: Local RAG on Your Own Infrastructure (Open Source)" /></a>
 </p>
 
 More on [youtube.com/@Zyrabit-SLM](https://www.youtube.com/@Zyrabit-SLM).
